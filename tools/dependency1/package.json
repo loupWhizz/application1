@@ -1,0 +1,8 @@
+{
+  "name": "@loupWhizz/dependency1",
+  "version": "1.0.3",
+  "main": "index.js",
+  "repository": "git://github.com/loupWhizz/dependency1.git",
+  "author": "loup <sebastian@nieciecki.pl>",
+  "license": "MIT"
+}
