@@ -457,5 +457,9 @@
     //   "projectFolder": "tools/my-toolchain",
     //   "reviewCategory": "tools"
     // }
+    {
+      "packageName": "@loupWhizz/dependency1",
+      "projectFolder": "tools/dependency1"
+    }
   ]
 }
