@@ -1,8 +1,6 @@
 {
   "node": "12.22.11",
-  "packageManager": "pnpm",
-  "packageManagerVersion": "6.7.1",
-  "rushJsonFolder": "/home/loup/local_dev/whizz/prototypes/rush-test/application1",
-  "storePath": "/home/loup/local_dev/whizz/prototypes/rush-test/application1/common/temp/pnpm-store",
-  "workspaces": true
+  "packageManager": "yarn",
+  "packageManagerVersion": "1.22.18",
+  "rushJsonFolder": "/home/loup/local_dev/whizz/prototypes/rush-test/application1"
 }

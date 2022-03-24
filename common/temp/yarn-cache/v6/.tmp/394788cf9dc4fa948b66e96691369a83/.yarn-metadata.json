@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "name": "@rush-temp/dependency1",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {},
+    "_registry": "npm",
+    "_loc": "/home/loup/local_dev/whizz/prototypes/rush-test/application1/common/temp/yarn-cache/v6/.tmp/394788cf9dc4fa948b66e96691369a83/package.json"
+  },
+  "artifacts": [],
+  "remote": {
+    "type": "tarball",
+    "reference": "file:./projects/dependency1.tgz",
+    "registry": "npm",
+    "hash": "",
+    "cacheIntegrity": "sha1-8QDvEdImAdWtPbCSf/KwzXJu77k="
+  },
+  "registry": "npm",
+  "hash": "f100ef11d22601d5ad3db0927ff2b0cd726eefb9"
+}

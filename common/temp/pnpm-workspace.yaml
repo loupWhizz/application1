@@ -1,2 +1,3 @@
 packages:
   - ../../tools/dependency1
+  - ../../tools/dependency2
