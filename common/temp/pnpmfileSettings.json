@@ -1,6 +1,0 @@
-{
-  "allPreferredVersions": {},
-  "allowedAlternativeVersions": {},
-  "semverPath": "/usr/lib/node_modules/@microsoft/rush/node_modules/semver/index.js",
-  "userPnpmfilePath": "/home/loup/local_dev/whizz/prototypes/rush-test/application1/common/config/rush/.pnpmfile.cjs"
-}

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@rush-temp/api": "file:./projects/api.tgz",
     "@rush-temp/dependency1": "file:./projects/dependency1.tgz",
     "@rush-temp/dependency2": "file:./projects/dependency2.tgz"
   },

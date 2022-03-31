@@ -1,0 +1,20 @@
+{
+  "name": "rush-common",
+  "version": "0.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "@rush-temp/api": {
+      "version": "file:projects/api.tgz",
+      "integrity": "sha512-UECr26OrO0GxesY/QG96iWAGv2IZKA8Dvpgkk8+6erxDnHhHhzwEDi4hM0Gk8xsV0eG2WCjOY6774csuXyvlxw=="
+    },
+    "@rush-temp/dependency1": {
+      "version": "file:projects/dependency1.tgz",
+      "integrity": "sha512-n0tVNuEsUnC3K4QGf3ahJAqN49z6FBt/bipZfufiEN3G4UAZNS/EtjrEmlgPtYL0KASwFPmYeRh0aVDNk9xQ0A=="
+    },
+    "@rush-temp/dependency2": {
+      "version": "file:projects/dependency2.tgz",
+      "integrity": "sha512-Hpd/Eo5wkYpU396AxqmWJVM7w0E8gWZ+2C8hZRRQoBaPyPBMwmM3ameuHikQFHo7+a26ORMytDKh1ts+bMon4Q=="
+    }
+  }
+}

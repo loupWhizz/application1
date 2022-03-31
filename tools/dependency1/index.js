@@ -1,3 +1,3 @@
 exports.callFunction = () => {
-  return 'RUSH: dependency 1, branch master v1'
+  return 'RUSH: dependency 1, branch master v2'
 };

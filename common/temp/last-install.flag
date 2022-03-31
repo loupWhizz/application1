@@ -1,6 +1,6 @@
 {
   "node": "12.22.11",
-  "packageManager": "yarn",
-  "packageManagerVersion": "1.22.18",
+  "packageManager": "npm",
+  "packageManagerVersion": "6.14.16",
   "rushJsonFolder": "/home/loup/local_dev/whizz/prototypes/rush-test/application1"
 }

@@ -1,0 +1,10 @@
+{
+  "name": "@rush-temp/api",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "rushDependencies": {
+    "@loupwhizz/dependency1": "^1.0.3",
+    "@loupwhizz/dependency2": "^1.0.2"
+  }
+}
