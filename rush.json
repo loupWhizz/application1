@@ -290,7 +290,7 @@
      * your PR branch, and in this situation "rush change" will also automatically invoke "git fetch"
      * to retrieve the latest activity for the remote master branch.
      */
-    // "url": "https://github.com/microsoft/rush-example",
+    //"url": "https://github.com/microsoft/rush-example",
 
     /**
      * The default branch name. This tells "rush change" which remote branch to compare against.
@@ -462,12 +462,9 @@
       "projectFolder": "apps/api"
     },
     {
-      "packageName": "@loupwhizz/dependency1",
-      "projectFolder": "tools/dependency1"
-    },
-    {
-      "packageName": "@loupwhizz/dependency2",
-      "projectFolder": "tools/dependency2"
+      "packageName": "@whizz/dependency3",
+      "projectFolder": "tools/dependency3",
+      "shouldPublish": true
     }
   ]
 }

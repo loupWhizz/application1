@@ -6,15 +6,11 @@
   "dependencies": {
     "@rush-temp/api": {
       "version": "file:projects/api.tgz",
-      "integrity": "sha512-UECr26OrO0GxesY/QG96iWAGv2IZKA8Dvpgkk8+6erxDnHhHhzwEDi4hM0Gk8xsV0eG2WCjOY6774csuXyvlxw=="
+      "integrity": "sha512-jPBVgTyY8Tx1qlk9btStuco+mWG79w7ouhzVSuBR3SwdNJdNtM0joNrpSPEtUbuIwbYaG0nyaz/nvZ8mIX7aCQ=="
     },
-    "@rush-temp/dependency1": {
-      "version": "file:projects/dependency1.tgz",
-      "integrity": "sha512-n0tVNuEsUnC3K4QGf3ahJAqN49z6FBt/bipZfufiEN3G4UAZNS/EtjrEmlgPtYL0KASwFPmYeRh0aVDNk9xQ0A=="
-    },
-    "@rush-temp/dependency2": {
-      "version": "file:projects/dependency2.tgz",
-      "integrity": "sha512-Hpd/Eo5wkYpU396AxqmWJVM7w0E8gWZ+2C8hZRRQoBaPyPBMwmM3ameuHikQFHo7+a26ORMytDKh1ts+bMon4Q=="
+    "@rush-temp/dependency3": {
+      "version": "file:projects/dependency3.tgz",
+      "integrity": "sha512-q1TTRzdQbUbTZYqghZhkAW2wD5kmY1ZS7d2W4B11pgfbXaEOqYskGwyReS9tccBQjEXsN85LacMsWfp6vrcC7g=="
     }
   }
 }
