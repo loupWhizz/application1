@@ -7,6 +7,5 @@
   "license": "MIT",
   "dependencies": {
     "@whizz/dependency3": "^1"
-  },
-  "devDependencies": {}
+  }
 }
