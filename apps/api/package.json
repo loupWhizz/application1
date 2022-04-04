@@ -6,8 +6,7 @@
   "author": "loup <sebastian@nieciecki.pl>",
   "license": "MIT",
   "dependencies": {
-    "@loupwhizz/dependency1": "^1.0.3",
-    "@loupwhizz/dependency2": "^1.0.2"
+    "@whizz/dependency3": "^1"
   },
   "devDependencies": {}
 }
